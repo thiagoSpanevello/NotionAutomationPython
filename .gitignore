@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+chromedriver.exe
