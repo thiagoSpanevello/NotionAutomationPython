@@ -1,7 +1,7 @@
 # 🧠 Automação Notion + SIGAA
 
 Este projeto automatiza a extração de tarefas do portal SIGAA da UFFS e envia essas tarefas diretamente para um banco de dados no Notion.
-Fiz este projeto para facilitar automatizar a verificação das tarefas pendentes e para exercitar um pouco essa parte de automação utilizando o Python por curiosidade.
+Fiz este projeto para facilitar minha vida e automatizar a verificação das tarefas pendentes e para exercitar um pouco essa parte de automação utilizando o Python por curiosidade.
 
 ---
 
